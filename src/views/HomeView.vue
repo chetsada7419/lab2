@@ -55,4 +55,5 @@ const events = ref<Event[]>([
   flex-direction: column;
   align-items: center;
 }
+
 </style>
